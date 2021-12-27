@@ -1,0 +1,16 @@
+{
+  "name": "json",
+  "age": 30,
+  "married": true,
+  "divorsed": false,
+  "cars": [
+    {
+      "model": "bmw230",
+      "mpg": 23.4
+    },
+    {
+      "model": "ford edge",
+      "mpg": 23
+    }
+  ]
+}
